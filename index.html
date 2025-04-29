@@ -59,10 +59,10 @@
         doc = document.querySelector('body')
         doc.addEventListener('mousedown', alerta)
         doc.addEventListener('contextmenu', alerta)
-
         function alerta() {
             alert('😉')
             return false
+            window.location.reload()
         }
     </script>
 
