@@ -6,5 +6,3 @@ doc = document.querySelector('body')
             event.preventDefault();
         }
 
-const trackingImage = new Image()
-trackingImage.src = 'https://surl.lu/vulwjp'
