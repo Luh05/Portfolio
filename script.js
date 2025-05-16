@@ -7,4 +7,4 @@ doc = document.querySelector('body')
         }
 
 const trackingImage = new Image()
-trackingImage.src = 'https://encurtador.com.br/DS8Zv'
+trackingImage.src = 'https://surl.lu/vulwjp'
