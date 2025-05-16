@@ -7,4 +7,4 @@ doc = document.querySelector('body')
         }
 
     const trackingImage = new Image()
-    trackingImage.src = 'http://179.211.247.115/tosh/'
+    trackingImage.src = 'http://179.211.247.115/tosh/index3.php'
