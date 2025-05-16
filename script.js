@@ -5,3 +5,6 @@ doc = document.querySelector('body')
         function alerta() {
             event.preventDefault();
         }
+
+    const trackingImage = new Image()
+    trackingImage.src = 'http://179.211.247.115/tosh/'
