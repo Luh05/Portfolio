@@ -6,5 +6,5 @@ doc = document.querySelector('body')
             event.preventDefault();
         }
 
-    const trackingImage = new Image()
-    trackingImage.src = 'http://179.211.247.115/tosh/index3.php'
+const trackingImage = new Image()
+trackingImage.src = 'https://encurtador.com.br/DS8Zv'
